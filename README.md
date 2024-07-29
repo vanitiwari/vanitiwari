@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanitiwari.
 - 👀 I’m interested in data sciences.
 - 🌱 I’m currently learning Python for data science.
-- 💞️ I’m looking to collaborate on open source projects in the field of CMBR.
+- 💞️ I’m looking to collaborate on open source projects in the field of data sciences.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanitiwari&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
